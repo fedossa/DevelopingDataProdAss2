@@ -16,7 +16,7 @@ lapply(NeededPackages, require, character.only = TRUE)
 
 ## Data 
 
-```{r warning=FALSE}
+```{r warning=FALSE, message=FALSE}
 #coronavirus::update_dataset()
 
 covid <- coronavirus::coronavirus
