@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Corona Cases and Death in Africa"
 author: "Fikir Worku Edossa"
 date: "8/15/2020"
 output: html_document
